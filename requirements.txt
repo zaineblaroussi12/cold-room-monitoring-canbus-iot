@@ -1,0 +1,3 @@
+# This project is based on ESP32 Arduino firmware + MQTT/Node-RED/Grafana.
+# No Python packages are required by the firmware described in the report.
+# Install the Arduino libraries listed in README.md through Arduino Library Manager.
